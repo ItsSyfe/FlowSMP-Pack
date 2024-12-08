@@ -1,0 +1,10 @@
+{
+  "music_disc.codstep": {
+    "sounds": [
+      {
+        "name": "records/music_disc_codstep",
+        "stream": true
+      }
+    ]
+  }
+}
