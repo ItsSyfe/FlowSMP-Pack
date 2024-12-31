@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": "mmaple - Out of Reach",
+  "length_in_seconds": 106,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.out_of_reach"
+  }
+}
