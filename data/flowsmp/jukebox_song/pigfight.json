@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": "ford610 - Pigfight",
+  "length_in_seconds": 150,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.pigfight"
+  }
+}
