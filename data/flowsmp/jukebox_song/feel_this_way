@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": "flowstate - Feel This Way",
+  "length_in_seconds": 190,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.feel_this_way"
+  }
+}
