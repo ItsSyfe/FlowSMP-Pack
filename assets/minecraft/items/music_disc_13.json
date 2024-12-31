@@ -11,7 +11,7 @@
         "when": "cloverrest_tavern",
         "model": {
           "type": "model",
-          "model": "item/cloverres_tavern"
+          "model": "item/cloverrest_tavern"
         "when": "codstep",
         "model": {
           "type": "model",
