@@ -8,13 +8,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Zip resourcepack
-        uses: vimtor/action-zip@v1.2
-        with:
-          files: README.md pack.png pack.mcmeta assets/ data/
-          dest: flowsmp.zip
       - name: Archive resourcepack
         uses: actions/upload-artifact@v4
         with:
-          name: Resourcepack
-          path: flowsmp.zip
+          name: flowsmp
+          path: README.md pack.png pack.mcmeta assets/ data/
