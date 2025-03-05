@@ -5,35 +5,32 @@ Make sure that anything you add to this pack that you have express permission to
 
 ## Credits
 
+<!---
+
+Credits should be added in the format below, comma separation for artist
+- *Track* **by** *Artist(s)*
+
+-->
+
 Below are a list of credits that are required for partial or whole works within the project.
 
-Season 3 Tracks:
+### Season 3 Tracks:
 
-Cloverrest Tavern - mmaple
-  
-Codstep - adderallgobbler, flowstate
-  
-Corvian Keep - tokimi
-  
-Feel This Way - flowstate
-  
-Grenrijk Club Anthem - adderallgobbler
-  
-Jungle Jungle - adderallgobbler, funkfish
-  
-Maplepine Stroll - adderallgobbler
-  
-Nascent - tokimi
-  
-Out of Reach - mmaple
-  
-Pigfight - ford610
-  
-Shieje River - adderallgobbler
-  
+- *Cloverrest Tavern* **by** *mmaple*
+- *Codstep* **by** *adderallgobbler, flowstate*
+- *Corvian Keep* **by** *tokimi*
+- *Feel This Way* **by** *flowstate*
+- *Grenrijk Club Anthem* **by** *adderallgobbler*
+- *Jungle Jungle* **by** *adderallgobbler, funkfish*
+- *Maplepine Stroll* **by** *adderallgobbler*
+- *Nascent* **by** *tokimi*
+- *Out of Reach* **by** *mmaple*
+- *Pigfight* **by** *ford610*
+- *Shieje River* **by** *adderallgobbler*
 
-Season 4 Tracks:
-  .
+### Season 4 Tracks:
+
+<!--- - *Track* **by** *Artist(s)* -->
 
 ## License
 
