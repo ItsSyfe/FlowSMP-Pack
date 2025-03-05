@@ -1,98 +1,106 @@
 {
-  "music_disc.chillin_like_a_clovervillan": {
-    "sounds": [
-      {
-        "name": "records/music_disc_chillin_like_a_clovervillan",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.cloverrest_tavern": {
-    "sounds": [
-      {
-        "name": "records/music_disc_cloverrest_tavern",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.codstep": {
-    "sounds": [
-      {
-        "name": "records/music_disc_codstep",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.corvian_keep": {
-    "sounds": [
-      {
-        "name": "records/music__disc_corvian_keep",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.feel_this_way": {
-    "sounds": [
-      {
-        "name": "records/music_disc_feel_this_way",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.grenrijk_club_anthem": {
-    "sounds": [
-      {
-        "name": "records/music_disc_grenrijk_club_anthem",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.jungle_jungle": {
-    "sounds": [
-      {
-        "name": "records/music_disc_jungle_jungle",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.maplepine_stroll": {
-    "sounds": [
-      {
-        "name": "records/music_disc_maplepine_stroll",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.nascent": {
-    "sounds": [
-      {
-        "name": "records/music_disc_nascent",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.out_of_reach": {
-    "sounds": [
-      {
-        "name": "records/music_disc_out_of_reach",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.pigfight": {
-    "sounds": [
-      {
-        "name": "records/music_disc_pigfight",
-        "stream": true
-      }
-    ]
-  },
-  "music_disc.shieje_river": {
-    "sounds": [
-      {
-        "name": "records/music_disc_shieje_river",
-        "stream": true
-      }
-    ]
-  }
+    "music_disc.cloverrest_tavern": {
+        "sounds": [
+            {
+                "name": "records/music_disc_cloverrest_tavern",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.codstep": {
+        "sounds": [
+            {
+                "name": "records/music_disc_codstep",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.corvian_keep": {
+        "sounds": [
+            {
+                "name": "records/music__disc_corvian_keep",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.feel_this_way": {
+        "sounds": [
+            {
+                "name": "records/music_disc_feel_this_way",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.grenrijk_club_anthem": {
+        "sounds": [
+            {
+                "name": "records/music_disc_grenrijk_club_anthem",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.jungle_jungle": {
+        "sounds": [
+            {
+                "name": "records/music_disc_jungle_jungle",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.maplepine_stroll": {
+        "sounds": [
+            {
+                "name": "records/music_disc_maplepine_stroll",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.nascent": {
+        "sounds": [
+            {
+                "name": "records/music_disc_nascent",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.out_of_reach": {
+        "sounds": [
+            {
+                "name": "records/music_disc_out_of_reach",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.pigfight": {
+        "sounds": [
+            {
+                "name": "records/music_disc_pigfight",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.shieje_river": {
+        "sounds": [
+            {
+                "name": "records/music_disc_shieje_river",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.chillin_like_a_clovervillian": {
+        "sounds": [
+            {
+                "name": "records/music_disc_chillin_like_a_clovervillian",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.still_mining": {
+        "sounds": [
+            {
+                "name": "records/music_disc_still_mining",
+                "stream": true
+            }
+        ]
+    }
 }
