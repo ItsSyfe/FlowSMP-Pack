@@ -97,6 +97,27 @@
                     "type": "model",
                     "model": "item/still_mining"
                 }
+            },
+            {
+                "when": "into_the_underground",
+                "model": {
+                    "type": "model",
+                    "model": "item/into_the_underground"
+                }
+            },
+            {
+                "when": "a_season_new",
+                "model": {
+                    "type": "model",
+                    "model": "item/a_season_new"
+                }
+            },
+            {
+                "when": "duel_of_the_runes",
+                "model": {
+                    "type": "model",
+                    "model": "item/duel_of_the_runes"
+                }
             }
         ]
     }

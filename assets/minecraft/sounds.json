@@ -102,5 +102,29 @@
                 "stream": true
             }
         ]
+    },
+    "music_disc.into_the_underground": {
+        "sounds": [
+            {
+                "name": "records/music_disc_into_the_underground",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.a_season_new": {
+        "sounds": [
+            {
+                "name": "records/music_disc_a_season_new",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.duel_of_the_runes": {
+        "sounds": [
+            {
+                "name": "records/music_disc_duel_of_the_runes",
+                "stream": true
+            }
+        ]
     }
 }

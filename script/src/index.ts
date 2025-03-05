@@ -11,7 +11,7 @@ const trackArtist = await input({
 	message: 'Enter the artist(s) of the track',
 });
 
-const trackItemId = await input({
+const trackItemId = "minecraft:" + await input({
 	message: 'Enter the item id for the recipe',
 });
 

@@ -2,6 +2,10 @@
   "name": "disc-generator",
   "module": "src/index.ts",
   "type": "module",
+  "scripts": {
+    "gen": "bun run src/index.ts",
+    "items": "bun run src/usedItems.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
@@ -9,6 +13,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@inquirer/prompts": "^7.3.2"
+    "@inquirer/prompts": "^7.3.2",
+    "clipboardy": "^4.0.0"
   }
 }
