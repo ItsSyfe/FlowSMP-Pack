@@ -1,89 +1,96 @@
 {
-    "model": {
-        "type": "select",
-        "property": "custom_model_data",
-        "fallback": {
-            "type": "model",
-            "model": "item/music_disc_13"
-        },
-        "cases": [
-            {
-                "when": "cloverrest_tavern",
-                "model": {
-                    "type": "model",
-                    "model": "item/cloverrest_tavern"
-                }
-            },
-            {
-                "when": "codstep",
-                "model": {
-                    "type": "model",
-                    "model": "item/codstep"
-                }
-            },
-            {
-                "when": "corvian_keep",
-                "model": {
-                    "type": "model",
-                    "model": "item/corvian_keep"
-                }
-            },
-            {
-                "when": "feel_this_way",
-                "model": {
-                    "type": "model",
-                    "model": "item/feel_this_way"
-                }
-            },
-            {
-                "when": "grenrijk_club_anthem",
-                "model": {
-                    "type": "model",
-                    "model": "item/grenrijk_club_anthem"
-                }
-            },
-            {
-                "when": "jungle_jungle",
-                "model": {
-                    "type": "model",
-                    "model": "item/jungle_jungle"
-                }
-            },
-            {
-                "when": "maplepine_stroll",
-                "model": {
-                    "type": "model",
-                    "model": "item/maplepine_stroll"
-                }
-            },
-            {
-                "when": "nascent",
-                "model": {
-                    "type": "model",
-                    "model": "item/nascent"
-                }
-            },
-            {
-                "when": "out_of_reach",
-                "model": {
-                    "type": "model",
-                    "model": "item/out_of_reach"
-                }
-            },
-            {
-                "when": "pigfight",
-                "model": {
-                    "type": "model",
-                    "model": "item/pigfight"
-                }
-            },
-            {
-                "when": "shieje_river",
-                "model": {
-                    "type": "model",
-                    "model": "item/shieje_river"
-                }
-            }
-        ]
-    }
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/music_disc_13"
+    },
+    "cases": [
+      {
+        "when": "chillin_like_a_clovervillan",
+        "model": {
+          "type": "model",
+          "model": "item/chillin_like_a_clovervillan"
+        }
+      },
+      {
+        "when": "cloverrest_tavern",
+        "model": {
+          "type": "model",
+          "model": "item/cloverrest_tavern"
+        }
+      },
+      {
+        "when": "codstep",
+        "model": {
+          "type": "model",
+          "model": "item/codstep"
+        }
+      },
+      {
+        "when": "corvian_keep",
+        "model": {
+          "type": "model",
+          "model": "item/corvian_keep"
+        }
+      },
+      {
+        "when": "feel_this_way",
+        "model": {
+          "type": "model",
+          "model": "item/feel_this_way"
+        }
+      },
+      {
+        "when": "grenrijk_club_anthem",
+        "model": {
+          "type": "model",
+          "model": "item/grenrijk_club_anthem"
+        }
+      },
+      {
+        "when": "jungle_jungle",
+        "model": {
+          "type": "model",
+          "model": "item/jungle_jungle"
+        }
+      },
+      {
+        "when": "maplepine_stroll",
+        "model": {
+          "type": "model",
+          "model": "item/maplepine_stroll"
+        }
+      },
+      {
+        "when": "nascent",
+        "model": {
+          "type": "model",
+          "model": "item/nascent"
+        }
+      },
+      {
+        "when": "out_of_reach",
+        "model": {
+          "type": "model",
+          "model": "item/out_of_reach"
+        }
+      },
+      {
+        "when": "pigfight",
+        "model": {
+          "type": "model",
+          "model": "item/pigfight"
+        }
+      },
+      {
+        "when": "shieje_river",
+        "model": {
+          "type": "model",
+          "model": "item/shieje_river"
+        }
+      }
+    ]
+  }
 }
