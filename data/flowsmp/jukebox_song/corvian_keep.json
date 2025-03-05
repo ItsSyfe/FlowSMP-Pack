@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": "tokimi - Corvian Keep",
+  "length_in_seconds": 140,
+  "sound_event": {
+    "sound_id": "minecraft:music_disc.corvian_keep"
+  }
+}
