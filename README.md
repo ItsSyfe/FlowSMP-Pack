@@ -8,7 +8,7 @@ Make sure that anything you add to this pack that you have express permission to
 <!---
 
 Credits should be added in the format below, comma separation for artist
-- *Track* **by** *Artist(s)*
+- _Track_ **by** _Artist(s)_
 
 -->
 
@@ -16,21 +16,23 @@ Below are a list of credits that are required for partial or whole works within 
 
 ### Season 3 Tracks:
 
-- *Cloverrest Tavern* **by** *mmaple*
-- *Codstep* **by** *adderallgobbler, flowstate*
-- *Corvian Keep* **by** *tokimi*
-- *Feel This Way* **by** *flowstate*
-- *Grenrijk Club Anthem* **by** *adderallgobbler*
-- *Jungle Jungle* **by** *adderallgobbler, funkfish*
-- *Maplepine Stroll* **by** *adderallgobbler*
-- *Nascent* **by** *tokimi*
-- *Out of Reach* **by** *mmaple*
-- *Pigfight* **by** *ford610*
-- *Shieje River* **by** *adderallgobbler*
+- _Cloverrest Tavern_ **by** _mmaple_
+- _Codstep_ **by** _adderallgobbler, flowstate_
+- _Corvian Keep_ **by** _tokimi_
+- _Feel This Way_ **by** _flowstate_
+- _Grenrijk Club Anthem_ **by** _adderallgobbler_
+- _Jungle Jungle_ **by** _adderallgobbler, funkfish_
+- _Maplepine Stroll_ **by** _adderallgobbler_
+- _Nascent_ **by** _tokimi_
+- _Out of Reach_ **by** _mmaple_
+- _Pigfight_ **by** _ford610_
+- _Shieje River_ **by** _adderallgobbler_
 
 ### Season 4 Tracks:
 
-<!--- - *Track* **by** *Artist(s)* -->
+<!--- - _Track_ **by** _Artist(s)_ -->
+
+- _Chillin Like a Clovervillan_ **by** _adderallgobbler_
 
 ## License
 
@@ -44,8 +46,8 @@ by the Free Software Foundation, either version 3 of the License, or
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU Affero General Public License for more details.
 
 You should have received a [copy](./LICENSE) of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+along with this program. If not, see <https://www.gnu.org/licenses/>.
