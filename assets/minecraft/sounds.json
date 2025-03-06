@@ -18,7 +18,7 @@
     "music_disc.corvian_keep": {
         "sounds": [
             {
-                "name": "records/music__disc_corvian_keep",
+                "name": "records/music_disc_corvian_keep",
                 "stream": true
             }
         ]

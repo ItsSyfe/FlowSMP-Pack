@@ -33,6 +33,10 @@ Below are a list of credits that are required for partial or whole works within 
 <!--- - _Track_ **by** _Artist(s)_ -->
 
 - _Chillin Like a Clovervillan_ **by** _adderallgobbler_
+- _still mining_ **by** _thisiskret_
+- _Into the Underground_ **by** _adderallgobbler, flowstate_
+- _A Season, New_ **by** _adderallgobbler, flowstate_
+- _Attached_ **by** _adderallgobbler_
 
 ## License
 
